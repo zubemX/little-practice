@@ -1,0 +1,302 @@
+.overall{
+   
+}
+nav{
+    background-color: #1AC073;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.logo{
+    flex: 1;
+
+}
+
+.natigation{
+    flex:1;
+}
+
+.searchandshop{
+    flex: 1;
+}
+
+.cart{
+    width: 22px;
+    height: 22px;
+    margin-left: 20px;
+}
+
+
+.natigation ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    font-size: 20px;
+    color: white;
+}
+
+.searchandshop img{
+        align-items: center;
+        justify-content: center;
+      
+}
+
+.search1{
+    margin-left: 320px;
+}
+
+.whatwhat{
+    margin-left: 50px;
+}
+
+
+.firstsection{
+    padding: 100px 0;
+    background-color:#1AC073; 
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    color: white;
+}
+
+.textext1{
+    margin: 0;
+    font-size: 80px;
+    color: white;
+}
+
+
+.inputdone{
+    padding: 20px 80px;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border: none;
+}
+
+.searchdone{
+    padding: 20px 40px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: none;
+    background-color:gold;
+}
+
+.sectionwithtext{
+    margin-right: 80px;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    height: 50px;
+   
+  }
+  
+  td, th {
+    border: 1px solid gold;
+    text-align: center;
+    
+    
+  }
+  
+  .foodselection{
+      padding: 20px 60px;
+  }
+
+  #cars{
+      padding: 15px 80px;
+      margin-top: 20px;
+      border: 2px solid gray;
+      border-radius: 10px;
+
+  }
+
+  .ybkg{
+      background-color: gold;
+      border-bottom-left-radius: 10px;
+      border-top-left-radius: 10px;
+  }
+
+  .namemoney{
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+  }
+  .namemoney h4{
+      /* margin-right: 10px; */
+  }
+
+  .foodcad1{
+      width: 17%;
+      box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+    padding: 20px 10px;
+    margin: 0 20px;
+    }
+
+
+  .rating{
+      display: flex;
+      align-items: center;
+  }
+
+  .star{
+     
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      
+  }   
+      
+  .foodrow{
+    padding: 10px 70px; 
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     
+
+      
+  }
+
+  .mins{
+      margin-left: 5px;
+      flex: 1;
+      align-items: center;
+      justify-content: center;
+      
+  }
+
+  .addtocat{
+      
+      justify-content: flex-end;
+      align-items: center;
+  }
+
+  .noborder{
+      border: none;
+      padding: 5px 20px;
+      border-radius: 50px;
+  }
+
+  .loadmore{
+      align-items: center;
+      justify-content: center;
+      margin: 40px auto;
+      text-align: center;
+  }
+
+
+  .loadmore button{
+      color: gray;
+      padding: 20px 60px;
+      border-radius: 20px;
+      border: 2px solid gold;
+  }
+
+  .our-blog-main{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto;
+     
+  }
+
+  .our-blog-details1{
+      margin: 20px 80px;
+  }
+
+  .our-blog-details3{
+    margin: 20px 80px;
+}
+
+.textpart{
+    margin-right: 95px;
+}
+
+.our-blog h1{
+        margin-left: 300px;
+}
+
+.riderside{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #F7F8FA;
+    padding: 90px;
+
+}
+
+.normalname{
+    padding: 20px 60px;
+    border-radius: 10px;
+    border: 1px solid gray;
+   
+}
+
+.riderside h1{
+    font-size: 40px;
+}
+
+.normalname2{
+    padding: 20px 60px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-left: 10px;
+}
+.normaltext{
+    margin-top: 30px;
+    border-radius: 15px;
+    
+   
+}
+
+footer{
+    background-color: #1AC073;
+    padding: 2px 70px;
+}
+
+.copyright{
+    text-align: center;
+    margin-bottom: 30px;
+    color: white;
+}
+
+.facebook{
+    margin-left: 420px;
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+
+.cart1{
+    margin-left: 20px;
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
+}
+
+
+.searchandshop1{
+    flex: 1;
+    display: flex;
+}
+
+hr{
+    width: 95%;
+    border: 1px solid white;
+}
+
+
+.givehover:hover{
+    color: black;
+    background-color: gold;
+    border: 1px solid black
+}
+
+
+
+
+ 
