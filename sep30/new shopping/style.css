@@ -1,0 +1,44 @@
+.fvertical{
+    border: 5px solid red;
+    display: flex;
+    padding: 20px;
+    /* width: 30%; */
+    background-color: black;
+   
+}
+
+#newcontain{
+    margin-left: 25px;
+}
+
+#btn1{
+    padding: 8px;
+    width: 270px;
+    height: 35px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 50px;
+}
+p{
+    color: white;
+}
+h1{
+    color: white;
+}
+img{
+    border: 5px solid white;
+}
+
+#vertical{
+    margin-top: 20px;
+    border: 5px solid red;
+    /* display: flex; */
+    padding: 20px;
+    width: 15%;
+    background-color: black;
+   
+}
+
+
+

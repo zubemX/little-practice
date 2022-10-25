@@ -1,0 +1,111 @@
+/* body{
+    background-color: white;
+}
+
+#title1{
+    color: green;
+    font-size: 25px;
+
+}
+
+.para1{
+    color: blue;
+    font-size: 18px;
+}
+.btn1{
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+
+.title2{
+    color: blue;
+    font-size: 30px;
+}
+
+.para2{
+    color: green;
+    font-size: 19px;
+}
+
+#btn2{
+    background-color: blue;
+    color: white;
+    border-radius: 20px;
+    padding: 5px;
+
+
+}
+
+
+.titel3{
+ color: purple;
+ font-size: 40px;
+
+}
+
+.para3{
+    color: coral;
+    font-size: 21px;
+}
+
+#btn3{
+background-color:purple;
+color: white;
+border-radius: 20px;
+padding: 5px;
+} */
+
+#containcad{
+    border: 5px solid green;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+    padding: 50px;
+}
+
+.month{
+    color: green;
+
+}
+.monthtext{
+    color:blue;
+
+}
+.monthbtn{
+    background-color:purple;
+    color: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+
+
+#containcad2{
+    border: 5px solid brown;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 200px;
+    padding: 50px;
+}
+
+.month2{
+    color: coral;
+
+}
+.monthtext2{
+    color:yellow;
+
+}
+.monthbtn2{
+    background-color:blue;
+    color: white;
+    padding: 10px;
+    border-radius: 50px;
+}
+
+body{
+    background-color:black;
+}

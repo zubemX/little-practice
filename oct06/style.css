@@ -1,0 +1,152 @@
+body{
+    margin: 0px;
+}
+.mainnav{
+    padding: 0 10px;
+    box-shadow: 2px 5px 2px gray;
+}
+.mainnav{
+    display: flex;
+}
+
+.nav1{
+ flex: 1;
+ display: flex;
+ align-items: center;
+ justify-content: left;
+ margin-left: 30px;
+
+}
+
+.nav2{
+ flex: 1;
+ display: flex;
+ align-items: center;
+
+
+}
+
+.shopcart{
+    width: 25px;
+    height: 25px;
+    margin-left: 60px;
+}
+
+.urer1{
+    width: 25px;
+    height: 25px;
+    margin-left: 60px;
+}
+
+.nav2 ul{
+    display: flex;
+    list-style: none;
+}
+
+.nav2 ul li{
+    margin-left: 30px;
+    font-size: 18px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* .womanimg{
+    height: 100%;
+    width: 100%;
+    margin-top: 5px;
+} */
+
+.slideimage{
+ 
+    background-image: url(./images/women.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+}
+.slideimage h1{
+    font-family: 'Metrophobic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: justify;
+    text-transform: uppercase;
+    color: #000000;
+    margin-left: 20px;
+    padding-top: 246px;
+}
+
+.slideimage h1 span{
+    color:#EF3A7F;
+    font-style: italic;
+}
+
+
+.loveicon{
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+ 
+    
+}
+
+.addcart{
+    width: 30px;
+    height: 30px;
+    
+   
+}
+
+.thesec{
+    margin:80px; 
+    flex-direction: column;
+    padding: 20px 50px; 
+}
+
+.row{
+    display: flex;
+    align-items: center;
+
+}
+
+.cad1{
+    /* border: 1px solid green; */
+    width: 16%;
+    margin: 0 auto;
+    height: 20%;
+    text-align: center;
+    padding: 50px 0;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.05) 0px 4px 6px -2px;
+
+   
+    
+}
+
+.cadcad1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    border: 1px solid black;
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+.cadcadcad1{
+    display: flex;
+    align-items: center;
+    height: 30px;
+}
+
+.cadcadcad1 h6{
+ 
+  
+}
+
+footer{
+    background-color: palevioletred;
+    padding: 10px;
+}
+footer p{
+    color: white;
+    text-align: center;
+}

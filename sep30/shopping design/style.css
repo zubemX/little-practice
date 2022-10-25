@@ -1,0 +1,35 @@
+section{
+    border: 5px solid blue;
+    padding: 10px;
+    display: flex;
+    width: 700px;
+}
+
+.details{
+    margin-left: 35px;
+}
+
+
+
+#pricecontain{
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    align-items: center;
+}
+
+h6{
+    color: red;
+    font-size: 20px;
+}
+
+.shopnow{
+    width: 100px;
+    height: 30px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 50px;
+   
+}
+

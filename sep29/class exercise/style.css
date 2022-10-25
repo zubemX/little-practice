@@ -1,0 +1,38 @@
+section{
+    border: 5px solid green;
+    padding: 20px;
+    display: flex;
+}
+
+.box1{
+    /* border: 5PX solid coral; */
+    width: 200px;
+    height: 200px;
+    padding: 5px;
+    
+}
+
+.box2{
+    /* border: 5PX solid green; */
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.box3{
+    /* border: 5PX solid blue; */
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    padding: 5px;
+}
+
+.box4{
+    border: 5PX solid brown;
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    padding: 5px;
+    flex:1;
+}

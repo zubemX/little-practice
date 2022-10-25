@@ -1,0 +1,199 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.officialnav{
+    background-color: #028174;
+    display: flex;
+    padding: 12px;
+
+}
+
+.divlogo{
+    flex: 1;
+}
+
+.divlogo h1{
+    margin-left: 90px;
+    color: white;
+}
+
+.navlogo{
+    flex: 1;
+    
+}
+
+.socialogo{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.navlogo ul{
+    display: flex;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left: 30px;
+    align-items: center;
+    justify-content: center;
+    font-size: 21px;
+    color: white;
+}
+.allimg{
+    margin-right: 10px;
+}
+
+
+.containbody1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 200px 250px;
+}
+
+.firtimg{
+    flex: 1;
+    align-items: center;
+
+}
+
+.firstimgtext{
+    flex: 1;
+}
+
+
+.firstimgtext p{
+    font-size: 80px;
+    font-weight: 800px;
+    font-family: 'Dm Sans';
+    color: #5689C0;;
+    
+}
+
+.firstimgtext button{
+    margin-top: 20px;
+    padding: 25px 70px;
+    background-color: #028174;
+    border: none;
+    border-radius: 30px;
+}
+
+.firstimgtext button a{
+   text-decoration: none;
+   color: white;
+}
+
+
+.details{
+    background-color: gainsboro;
+    display:flex;
+    padding: 70px;
+}
+
+
+.left p{
+    font-size: 70px;
+    font-weight: 100;
+    text-shadow: 1px 2px 5px black;
+    margin-right: 80px;  
+}
+
+.right{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 20px;
+}
+.grid1{
+    /* margin-left: 90px; */
+}
+
+.left p span{
+    color:green;
+}
+
+.left button{
+    padding: 15px 60px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border-radius: 20px;
+    border: none;
+    background-color: green;
+    color: white;        
+}
+
+.grid1 h2{
+    color: green;
+    font-size: 35px;
+}
+
+.thirdsection{
+    display: flex;
+    padding: 120px;
+}
+
+.doctorimg{
+    flex: 1;
+}
+
+.doctortxt h1{
+    font-size: 80px;
+    color: #5689C0;
+}
+
+.doctortxt p{
+    font-size: 25px;
+}
+
+.doctortxt{
+    flex: 1;
+}
+
+.doctortxt button{
+    padding: 20px 70px;
+    background-color: #028174;
+    color: white;
+    border-radius: 50px;
+    margin-top: 60px;
+    border: none;
+
+}
+
+.fortsection{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.lifem{
+
+
+}
+.lifem h1{
+    margin: 70px 0;
+    font-size: 70px;
+    align-items: center;
+    justify-content: center;
+    color: #5689C0;
+}
+
+.docimg{
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+}
+
+.docdetails{
+    text-align: center;
+    margin: 20px;
+}
+
+
+
+

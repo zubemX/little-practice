@@ -1,0 +1,134 @@
+.maincontain{
+    box-shadow: 2px 5px 10px gray;
+   
+}
+nav{
+    filter: drop-shadow(0px 1px 4px rgba(0, 0, 0, 0.25));
+    display: flex;
+    padding: 0 25px;
+    justify-content: space-between;
+    align-items: center;
+   
+
+
+}
+
+.box1 img{
+    margin-right: 10px;
+}
+.box1{
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+.box2{
+    flex: 1;
+    display: flex;  
+    align-items: center;
+    justify-content: space-between;
+    width: 50px;
+  
+
+}
+
+.btn1{
+    background: linear-gradient(268.46deg, #A36DA2 0.24%, #59A0C5 96.9%);
+    box-shadow: 0px 10px 20px rgba(86, 196, 249, 0.3);
+    border-radius: 15px;
+    width: 200px;
+    border: none;
+    height: 40px;;
+}
+.box2 ul{
+    display: flex;
+}
+
+.box2 ul li{
+    justify-content: space-between;
+    margin-left:50px;
+    list-style: none;
+    font-style: normal;
+    font-family:'poppins';
+    color: #7A7A7A;
+}
+
+
+
+.nsection{
+    margin: 100px;
+    width: 1000px;
+    height: 600px;
+    display: flex;
+    margin-left: 27%;
+    box-shadow: 5px 5px 5px gray;
+  
+}
+
+.left{
+  flex: 1;
+}
+
+
+.right{
+    flex: 1;
+    background: linear-gradient(268.46deg, #A36DA2 0.24%, #59A0C5 96.9%);
+    box-shadow: 0px 10px 20px rgba(86, 196, 249, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.left .top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 20%;
+}
+
+
+.containerdiv{
+    display: flex;
+    align-content: center;
+    justify-content: end;
+    margin-right: 100px;
+
+}
+
+label{
+    margin-right: 25px;
+    margin: 15px;
+}
+input{
+   border-style: none;
+   margin: 15px;
+   border-bottom: 1px solid #1687F7;
+   width: 200px;
+}
+
+input::placeholder{
+    color: #1687F7;
+}
+
+.btn2{
+    background: linear-gradient(268.46deg, #A36DA2 0.24%, #59A0C5 96.9%);
+    box-shadow: 0px 10px 20px rgba(86, 196, 249, 0.3);
+    border-radius: 15px;
+    width: 300px;
+    border: none;
+    height: 40px;
+    justify-content: center;
+    margin-left: 65px;
+}
+
+h3{
+    margin-left: 65px;
+}
+
+.signup{
+     margin-left: 65px;
+}
+
+.ack{
+    text-decoration: none;
+}

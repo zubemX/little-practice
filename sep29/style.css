@@ -1,0 +1,114 @@
+body{
+    background-color: black;
+   
+    
+}
+
+.contain1{
+    border: 4px dashed gold;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 20px 20px;
+   
+  
+       
+}
+
+.title1{
+    font-size: 50px;
+    font-family: monospace;
+    color:gold;
+    text-align: center;
+
+}
+
+.para1{
+    color: white;
+    font-size: 20px;;
+
+}
+
+.btn1{
+    background-color: gold;
+    color: black;
+    border-color: gray;
+    padding: 10px 10px;
+    border-radius: 50px;
+    font-family: monospace;
+}
+
+
+
+.contain2{
+    border: 4px dashed gold;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 20px;
+   
+}
+
+.title2{
+    font-size: 50px;
+    font-family: monospace;
+    color:gold;
+    text-align: center;
+
+}
+
+.para2{
+    color: white;
+    font-size: 20px;;
+
+}
+
+.btn2{
+    background-color: gold;
+    color: black;
+    border-color: gray;
+    padding: 10px 10px;
+    border-radius: 50px;
+    font-family: monospace;
+}
+
+.containall{
+    border: 5px solid gold;
+    border-radius: 50px;
+    
+    
+}
+
+
+
+.contain3{
+    border: 4px dashed gold;
+    border-radius: 50px;
+    margin: 50px;
+    padding: 20px;
+   
+}
+
+.title3{
+    font-size: 50px;
+    font-family: monospace;
+    color:gold;
+    text-align: center;
+
+}
+
+.para3{
+    color: white;
+    font-size: 20px;;
+
+}
+
+.btn3{
+    background-color: gold;
+    color: black;
+    border-color: gray;
+    padding: 10px 10px;
+    border-radius: 50px;
+    font-family: monospace;
+}
+
+
+

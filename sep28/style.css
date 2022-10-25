@@ -1,0 +1,39 @@
+h1{
+    color:lightgrey;
+    font-size: 90px;
+    background-color:black;
+    
+    
+}
+
+h2{
+    color: brown;
+    font-size: 75px;
+    background-color:gainsboro;
+    text-align: center;
+    
+}
+
+h3{
+    color: blue;
+    font-size: 55px;
+}
+p{
+    color: blue;
+}
+
+button{
+    background-color: coral;
+    color:white;
+    height: 35px;
+    width: 155px;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 5px 1px 5px gray;
+    font-family: sans-serif;
+  
+}
+.jump{
+    color:red;
+}
+
