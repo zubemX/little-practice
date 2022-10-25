@@ -1,0 +1,249 @@
+nav{
+ display: flex;
+}
+
+.containlogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+   
+}
+
+.containicon{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 150px;
+}
+
+.containlogo h1{
+    margin-left: 10px;
+}
+
+ul{
+   display: flex;
+   align-items: center;
+ 
+}
+
+ul li{
+    margin-right: 50px;
+    list-style: none;
+    font-weight: 200px;
+}
+
+
+.secondsection{
+    display: flex;
+}
+
+.textdiv{
+    flex: 1;
+    margin-left: 100px;
+    
+}
+
+.textdiv p{
+    
+}
+
+.imgdiv{
+    flex: 1;
+}
+
+.intent{
+    font-size: 70px; 
+    margin-top: 200px;
+}
+
+.purplecolor{
+    background-color: #5C1A8D;
+    
+}
+
+.pbktextone{
+    flex: 1;
+    margin: 0 auto;
+    padding: 50px;
+    color: white;
+  
+}
+
+.pbktextone h2, p{
+       text-align: center;
+}
+
+.pbktextone h2{
+    font-size: 40px;
+}
+
+.pbktextone p{
+    font-size: 25px;
+}
+
+
+
+.divforphone{
+    display: flex;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.stepbystep{
+    
+}
+
+.iPhoneimg{
+    margin-left: 200px;
+}
+
+.buttondetails1{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+   margin-left: 20px;
+ 
+}
+
+.step1{
+    padding: 40px 30px;
+    border-radius: 70px;
+    border: none;
+    background-color: gold;
+    margin-right: 30px;
+}
+
+.step2{
+    padding: 40px 30px;
+    border-radius: 70px;
+    border: none;
+    background-color: white;
+    margin-right: 30px;
+}
+
+.step3{
+    padding:40px 30px;
+    border-radius: 70px;
+    border: none;
+    background-color: white;;
+    margin-right: 30px;
+    color: black;
+    
+}
+
+.buttondetails1 p{
+    text-align: left;
+    color: white;
+    font-size: 18px;
+}
+
+.buttondetails1 h3{
+    text-align: left;
+    color: white;
+    font-size: 25px;
+}
+
+
+.secwithtwocdiv h1{
+  text-align: center;
+  font-size: 60px;
+}
+
+.containtwocolordiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+.ashcolor{
+    padding: 80px;
+    align-items: left;
+}
+
+.whitecolor{
+    padding: 80px;
+    display: grid ;
+    
+}
+
+.timeiconbkg{
+    background-color:  rgb(204, 165, 47);
+    padding: 30px 30px;
+    border-radius: 50px;
+}
+
+.caremoney{
+    background-color: aqua;
+    padding: 30px 30px;
+    border-radius: 50px;
+}
+
+.settingiconbkg{
+    background-color: green;
+    padding: 30px 30px;
+    border-radius: 50px;
+}
+
+.saftyiconbk{
+    background-color: purple;
+    padding: 30px 30px;
+    border-radius: 50px;
+}
+
+.giveleft{
+    text-align: left;
+    font-size: 18px;
+}
+
+.the-yellowbk{
+    padding: 50px 0;
+    align-items:center;
+    justify-content:center;
+    text-align:center;
+    background-color: rgb(204, 165, 47);
+}
+
+#ybkhone{
+    font-size: 50px;
+}
+
+.putemail{
+    padding:15px 90px;
+    margin-top: 50px;
+    border-color: white;
+    background-color:transparent; 
+    color: white;
+    border-style:solid;
+}
+
+.putemail::placeholder{
+    color: white;
+}
+
+.putemail1{
+    padding:15px 60px;
+    margin-top: 50px;
+    border-color: black;
+    background-color:black; 
+    color: white;
+    
+}
+
+footer{
+    background-color: rgb(197, 141, 0);
+    padding: 20px;
+    color: white;
+    display: flex;
+    ali
+}
+
+.privacy{
+   margin-left: 1200px;
+}
